@@ -1,0 +1,16 @@
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.exe
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.deps.json
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.runtimeconfig.json
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.runtimeconfig.dev.json
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.dll
+E:\Cast\Projetos\Aula60\Ex89\bin\Debug\net5.0\Ex89.pdb
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.csproj.AssemblyReference.cache
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.AssemblyInfoInputs.cache
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.AssemblyInfo.cs
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.dll
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\refint\Ex89.dll
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.pdb
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\Ex89.genruntimeconfig.cache
+E:\Cast\Projetos\Aula60\Ex89\obj\Debug\net5.0\ref\Ex89.dll

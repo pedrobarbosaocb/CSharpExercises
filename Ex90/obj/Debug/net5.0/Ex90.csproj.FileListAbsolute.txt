@@ -1,0 +1,16 @@
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.exe
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.deps.json
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.runtimeconfig.json
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.runtimeconfig.dev.json
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.dll
+E:\Cast\Projetos\Aula60\Ex90\bin\Debug\net5.0\Ex90.pdb
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.csproj.AssemblyReference.cache
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.AssemblyInfoInputs.cache
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.AssemblyInfo.cs
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.dll
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\refint\Ex90.dll
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.pdb
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\Ex90.genruntimeconfig.cache
+E:\Cast\Projetos\Aula60\Ex90\obj\Debug\net5.0\ref\Ex90.dll
